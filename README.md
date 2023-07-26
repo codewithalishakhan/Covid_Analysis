@@ -36,7 +36,7 @@ This project focuses on analyzing the COVID-19 pandemic using data visualization
 Feel free to Check out my Tableau Dashboard of Covid Analysis.
 
 
-[![Tableau](https://img.shields.io/badge/Tableau-0A66C2?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alisha.khan7858)
+[![Tableau](https://img.shields.io/badge/Tableau-0A66C2?style=for-the-badge&logo=Tableau&logoColor=Black)](https://public.tableau.com/app/profile/alisha.khan7858)
 
 
 
