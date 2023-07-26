@@ -33,7 +33,11 @@ This project focuses on analyzing the COVID-19 pandemic using data visualization
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-Feel free to Check out my Tableau Dashboards.
+Feel free to Check out my Tableau Dashboard of Covid Analysis.
+
+
+[![Tableau](https://img.shields.io/badge/Tableau-0A66C2?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alisha.khan7858)
+
 
 
 
