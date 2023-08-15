@@ -29,7 +29,8 @@ This project focuses on analyzing the COVID-19 pandemic using data visualization
 
 # <img src="https://media2.giphy.com/media/YjQk70gmQLDmJTawn0/giphy.gif?cid=6c09b952xaer02w992bk0htawwbmvmqir5fyf338xab2n9jp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="60">**Screenshot**
 
-<img src=https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/97d42a58-0737-42bf-b6b9-6b3398054a70 height=400>
+<img src=https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/2a2156b8-1eb2-49b0-9fda-85da2aabc229
+ height=400>
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
